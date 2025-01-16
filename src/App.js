@@ -1,7 +1,7 @@
 import React from 'react';
-import RefsFunc from './refs-class.js';
+import MessageBox from './state-func.js';
 
 function App() {
-  return <RefsFunc/>
+  return <MessageBox/>
 }
 export default App;
